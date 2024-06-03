@@ -1,4 +1,4 @@
 
 ## Demo
 
-![](assets/demo.mp4)
+<video src="assets/demo.mp4"></video>
